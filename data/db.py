@@ -1,0 +1,7 @@
+posts = [
+    {
+        "id": 1,
+        "title": "First Post",
+        "content": "Hello World"
+    }
+]
