@@ -223,9 +223,9 @@ git init
 git add .
 git commit -am "initial Commit"
 git branch -M main
-git remote add origin https://github.com/UmairAhmed298/week-1-glaxit.git
+git remote add origin (https://github.com/abdul-moiz007/forumm-apii)
 git push origin main
 
 ## GitHub
 
-https://github.com/UmairAhmed298/week-1-glaxit.git
+https://github.com/abdul-moiz007/forumm-apii
